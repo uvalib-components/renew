@@ -9,7 +9,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
 -->
 <html>
 <head>
-  <title>Quiz App</title>
+  <title>Alderman Renewal</title>
 
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1, user-scalable=yes">
   <meta name="mobile-web-app-capable" content="yes">
@@ -38,7 +38,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
     }
   </script>
 
-  <script src="components/platform/platform.js"></script>
+  <script src="../platform/platform.js"></script>
 
   <link rel="stylesheet" href="theme.css" shim-shadowdom>
 
@@ -46,25 +46,25 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
   <link rel="import" href="components/font-roboto/roboto.html">
   -->
   <link rel="import" href="polyfills/fonts/roboto.html">
-  <link rel="import" href="components/core-icons/core-icons.html">
-  <link rel="import" href="components/core-icons/av-icons.html">
-  <link rel="import" href="components/core-icons/social-icons.html">
-  <link rel="import" href="components/topeka-elements/topeka-datasource.html">
-  <link rel="import" href="components/topeka-elements/topeka-app.html">
-  <link rel="import" href="components/topeka-elements/theme.html">
+  <link rel="import" href="../core-icons/core-icons.html">
+  <link rel="import" href="../core-icons/av-icons.html">
+  <link rel="import" href="../core-icons/social-icons.html">
+  <link rel="import" href="../renew-elements/topeka-datasource.html">
+  <link rel="import" href="../renew-elements/topeka-app.html">
+  <link rel="import" href="../renew-elements/theme.html">
 
   <script>
-    if (navigator.serviceWorker) {
-      // Register our ServiceWorker
-      navigator.serviceWorker.register("sw.js");
-    }
+//    if (navigator.serviceWorker) {
+//      // Register our ServiceWorker
+//      navigator.serviceWorker.register("sw.js");
+//    }
   </script>
 
 </head>
 <body>
 
   <template is="auto-binding">
-    <topeka-datasource url="components/topeka-elements/categories.json" user="{{user}}" categories="{{categories}}" connected="{{connected}}"></topeka-datasource>
+    <topeka-datasource url="../renew-elements/categories.json" user="{{user}}" categories="{{categories}}" connected="{{connected}}"></topeka-datasource>
     <topeka-app fit user="{{user}}" categories="{{categories}}" connected="{{connected}}" touch-action="auto"></topeka-app>
   </template>
 
