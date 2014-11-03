@@ -1,0 +1,7 @@
+{
+  "name": "renew#gh-pages",
+  "private": true,
+  "dependencies": {
+    "topeka": "uvalib-components/renew#master"
+  }
+}

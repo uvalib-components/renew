@@ -1,0 +1,28 @@
+{
+  "name": "topeka",
+  "homepage": "https://github.com/Polymer/topeka",
+  "authors": [],
+  "description": "",
+  "license": "BSD",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "renew-elements": "uvalib-components/renew-elements#master"
+  },
+  "_release": "24f96c73a1",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "24f96c73a1540c6aef8f4bb1bf3df5de961ac80a"
+  },
+  "_source": "git://github.com/uvalib-components/renew.git",
+  "_target": "master",
+  "_originalSource": "uvalib-components/renew",
+  "_direct": true
+}

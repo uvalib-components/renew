@@ -1,0 +1,200 @@
+[
+    {
+        "name": "Edwin Alderman",
+        "id": "alderman",
+        "theme": "yellow",
+        "type": "page-card",
+        "leader": "“The modern library has become not only a store-house of thought, but a laboratory, a work shop, a mine, an inspiration for both professors and students.”<br /><img style='width:90%' src='images/Alderman_signature.png'>",
+        "content": "<p>In 1904, U.Va.'s Board of Visitors broke with tradition at the nearly 100-year old University. Up until that time, faculty had taken turns overseeing the executive functions of the University, but the administrative workload had grown, and the Board appointed the first president of the University. Their choice was Edwin Anderson Alderman.</p><p>Alderman, a native North Carolinian, had previously been the president of Tulane University and the University of North Carolina. A noted orator and commanding personality, he was catapulted to recognition as a voice for education in the South when, as a professor at UNC, he delivered a paper titled \"Higher Education in the South\" at the Atlanta Exposition meeting of the National Education Association. In his paper, Alderman argued against anti-public education sentiments then prevalent among many Southerners. At U.Va., he continued advocating for social progress and educational reform. \"I desire to change (Virginia's) ideals somewhat,\" he wrote in a 1909 letter, \" . . . to transform it from an aristocratic University to a democratic University.\"</p><p>Among Alderman's many achievements at U.Va. were the founding of the Curry School of Education, the solidifying and strengthening of the Medical School, and the expansion of U.Va.'s presence within the state. During Alderman's tenure enrollment at the University more than tripled (or quadrupled—accounts vary on the exact numbers). Alderman was also a strong advocate for women's education and attempted to open a women's college near Charlottesville that would be sponsored by, and grant degrees from, the University. However, even his charisma was no match for the near-absolute opposition he encountered from students, faculty, and alumni, and he was forced to back off his efforts.</p><p>Alderman was also a staunch believer in the importance of the library to any educational institution—indeed, at UNC he had been in charge of the library for a time. At U.Va., the collections had outgrown the library in the Rotunda sometime in the early part of the 20th century, and in a speech on Founder's Day in 1924, Alderman called for the construction of a million-dollar library.</p><p>Edwin Alderman remained president of the University until his death in 1931. In April of that year, in his last address before the University, he reiterated his wishes: \"The need of a great library building, which by its spaciousness and beauty may stand before the world as a symbol of the worth and dignity of learning, is the supreme requirement of this University.\" When the library was completed in 1938, it was dedicated to him during Final Exercises in June of that year. He is buried in the University cemetery along with many of the most prominent figures of the University.</p>"
+    },
+    {
+        "name": "About",
+        "id": "about",
+        "theme": "grey",
+        "type": "page-card",
+        "content": "<p>The University of Virginia Library is in the midst of planning a bold reorganization of its services and spaces. It is also embarking on a major overhaul of its flagship facility, Alderman Library (1938). The Alderman Renewal project is a multi-year effort to plan and execute an overhaul of this well-loved but well-worn facility.</p><p>We are currently in the initial phase of a Library system study: a six-month program led by a professional architectural planning firm that will engage the U.Va. community through workshops, town hall meetings, and studies of not only Alderman’s condition and structural possibilities, but also its role in the work of the other five buildings and the goals of the Cornerstone Plan.</p>"
+    },
+    {
+        "name": "History",
+        "id": "history",
+        "theme": "white",
+        "desc":"In 2013, Alderman Library celebrated its 75th year. As we look forward to renewing this much-beloved building, here’s a look back at some highlights from the past three-quarters of a century.",
+        "timeline":[
+            {"year":"1826",
+             "desc":"The Rotunda opens, serving as the University Library, with 8,000 books selected by Thomas Jefferson himself.  The books had arrived late in 1825 and had been stored in Pavilion VII on the West Lawn—now the Colonnade Club.",
+             "img":"LibraryRotunda_1905.jpeg",
+             "imgDesc":"\"Library in the Rotunda\" postcard (1905) from the University of Virginia Visual History Collection."},
+            {"year":"1904",
+             "desc":"Edwin Anderson Alderman becomes the University's first president. Alderman was a pioneer of educational expansion who increased appropriations for the Library and encouraged the expansion of library services. In his Founder's Day address in April of 1924 he proposed the construction of a new million-dollar library.",
+             "img":"EA_Alderman1912.jpg",
+             "imgDesc":"portrait of Edwin Alderman by Rufus Holsinger, 1912."},
+            {"year":"1936",
+             "desc":"After the death of Edwin Alderman in 1931, new University President John Lloyd Newcomb makes the library a top priority and secures assistance from the Public Works Administration, allowing construction to begin. Alumnus R.E. Lee Taylor, partner in Taylor & Fisher, was the building architect.",
+             "img":"NS_elevation.jpg",
+             "imgDesc":"Detail of Alderman Library South Elevation (1936). From Alderman Library Original Construction Drawings, Taylor and Fisher Architects, 1935–1939,  Facilities Management Resource Center, U.Va."}, 
+            {"year":"1938",
+             "desc":"The new library is completed at a cost of $950,909. Designed to accommodate 100 staff members, 1000 readers, and 600,000 volumes, Alderman Library, named in memory of Edwin Alderman, was formally dedicated during Final Exercises in June 1938.",
+             "img":"Alderman_MemHall1938_01.jpg",
+             "imgDesc":"Alderman Library circulation desk in Memorial Hall, 1938."},
+            {"year":"1938",
+             "desc":"The gift of the Tracy W. McGregor Library was announced at the Alderman Library dedication ceremonies. This significant collection of 12,500 items in American history, geography, and literature helped to establish the University as an important research center of American history. The McGregor Room was orginally built to house this collection. The McGregor Fund, which Tracy McGregor and his wife Katherine had established to support charitable works, has been a major benefactor to the University of Virginia Library ever since.",
+             "img":"McGregor_1978.jpg",
+             "imgDesc":"The McGregor Room in 1978, from the University of Virginia Visual History Collection."}, 
+            {"year":"1956",
+             "desc":"William Faulkner accepts the position as the University’s first Writer-in-Residence, and is later named Consultant on American Literature to Alderman library.",
+             "img":"WFaulkner_library.jpg",
+             "imgDesc":"William Faulkner speaks in the McGregor Room of Alderman Library.  University of Virginia Visual History Collection."}, 
+            {"year":"1960",
+             "desc":"Alumnus Clifton Waller Barrett presents his collection to the University. The Barrett Library comprised 750,000 books, letters, and manuscripts covering nearly every American author writing between 1775 and 1950.",
+             "img":"Celebratedjumpingfrog.jpg",
+             "imgDesc":"Cover of The Celebrated Jumping Frog of Calaveras County . . . by Mark Twain, 1867, from the Clifton Waller Barrett Library."}, 
+            {"year":"1967",
+             "desc":"\"New Stacks\" addition to Alderman Library opens.  By the early 60s, library collections numbered nearly a million volumes and plans for expansion began. The construction of \"New Stacks\" was the first of these plans to be implemented.",
+             "img":"NewStacks.jpg",
+             "imgDesc":"Construction of  New Stacks, 1966. Photograph by Ed Roseberry."}, 
+            {"year":"1992",
+             "desc":"Rare Book School (RBS) relocates from Columbia University to the University of Virginia. The first session at U.Va. was in the summer of 1993. RBS has been on the first floor of Alderman Library ever since, undergoing an extensive renovation in 2012/13.",
+             "img":"RBS_Belanger_2014.jpg",
+             "imgDesc":"Terry Belanger, Founding Director of Rare Book School, teaches in the Belanger Seminar Room, 2014."}, 
+            {"year":"1992",
+             "desc":"The Electronic Text Center (EText) opens in Alderman Library.  Etext  fostered innovation through technology and set an early precedent for the creation and use of digital materials in the humanities.",
+             "img":"MTMB.png",
+             "imgDesc":"Screenshot showing \"Mark Twain's Memory-Builder Game\" from  \"Mark Twain in His Times,\" an early Etext project."}, 
+            {"year":"1994",
+             "desc":"The four-millionth volume was added to the Library, then-U.S. Poet Laureate and U.Va. Commonwealth Professor of English Rita Dove’s “Lady Freedom Among Us.” A special edition of the poem was commissioned with images and design by Claire Van Vliet of Janus Press, and it was copy number one of this edition that was added to the collection.",
+             "img":"DovLady11.jpg",
+             "imgDesc":"Detail of \"Lady Freedom Among Us.\""}, 
+            {"year":"1998",
+             "desc":"Alderman Café opens in Memorial Hall. Now commonplace, this was the first instance of a research library opening a café/coffehouse on site. It has proven extremely popular.",
+             "img":"Ald_Cafe_Spring09_JH_3.jpg",
+             "imgDesc":"Bustling Alderman Café in 2009. Photograph by Jane Haley."}, 
+            {"year":"2005",
+             "desc":"The McGregor Room, previously kept dark to protect Special Collections exhibits, undergoes a complete restoration into a comfortable, light-filled reading room for students. The \"Harry Potter Room,\" as it becomes known, is soon one of the most popular places on Grounds for quiet study.",
+             "img":"Ald_McGregor_Fall12_SE_02.tif",
+             "imgDesc":"The McGregor Room, 2012. Photograph by Stacey Evans."}, 
+            {"year":"2006",
+             "desc":"The Scholars' Lab opens in the west wing of Alderman to support advanced digital work in the humanities and social sciences and to provide opportunities for researchers to collaborate with expert Library staff. Innovative graduate fellowship programs, faculty projects, and in-house R&D soon make the Scholars’ Lab an international leader in digital humanities.",
+             "img":"Alderman_Scholars_Lab_2.jpg",
+             "imgDesc":"Students and researchers in the Scholars' Lab, 2012."}, 
+            {"year":"2011",
+             "desc":"The former Barrett Room is renovated and reopened as the Asian Studies room, a reading room and home for the University Library’s current and future Asian and Buddhist studies collections.",
+             "img":"Alderman_Asian_Studies_Room.jpg",
+             "imgDesc":"Furnished with Asian art and provided with ample sunlight, the Asian Studies room is an open, inviting space for members of the University community."}, 
+            {"year":"2013",
+             "desc":"Alderman Library gets a new roof! As part of the process, nearly one-and-a-half tons of river rock are vacuumed off the roof into waiting trucks five stories below. The rock had been used as ballast on the membrane covering the old roof.",
+             "img":"Alderman_looking_NW.jpg",
+             "imgDesc":"On the roof of Alderman Library, looking northwest toward University Hall."}, 
+            {"year":"2013",
+             "desc":"Alderman Library celebrates its 75th anniversary, and plans are underway for Alderman Renewal, a project to update and enhance the building to suit the changing needs of faculty and students.",
+             "img":"Ald_MemHall_Fall12_SE_17.tif",
+             "imgDesc":"Memorial Hall in Alderman Library, 2012 (photograph by Stacey Evans)."}
+        ]
+    },
+    {
+        "name": "Get Involved",
+        "id": "involved",
+        "theme": "orange",
+        "subset": [
+            {"name": "Social Media"},
+            {"name": "Give Us Your Suggestions"},
+            {"name": "Tell Us Your Stories"},
+            {"name": "Send Us Your Photos"}
+        ]
+    },
+    {
+        "name": "Numbers",
+        "id": "numbers",
+        "theme": "blue"
+    },
+    {
+        "name": "Take the Quiz",
+        "id": "quiz",
+        "theme": "green",
+        "quizzes": [
+            {
+                "type": "single-select-item",
+                "question": "Who was president of the United States when Alderman Library was officially opened?",
+                "options": [
+                    "Harry S. Truman",
+                    "Franklin Delano Roosevelt",
+                    "Thomas Jefferson",
+                    "Grover Gleveland"
+                ],
+                "answer": [1],
+                "more": "The year was 1938, and the country was still in the grip of the Great Depression. In fact, Alderman Library was built with funds from the Public Works Administration, part of Roosevelt's \"New Deal.\" The library celebrated its 75th anniversary in 2013."
+            },
+            {
+                "type": "single-select-item",
+                "question": "What is the nickname of the McGregor Room, the large reading room in the east wing of Alderman Library's second floor?",
+                "options": [
+                    "The Cave",
+                    "The Room of Requirement",
+                    "The Lounge",
+                    "The Harry Potter Room"
+                ],
+                "answer": [3],
+                "more": "Originally built to house the Tracy W. McGregor Library Collection of American History, for six decades it was the Special Collections reading room and exhibition area. Completely restored in 2005, the McGregor Room is now a popular study space for students, who often refer to it as the Harry Potter Room because it reminds them of Hogwarts, the wizarding school from the popular series of novels and movies."
+            },
+            {
+                "type": "single-select-item",
+                "question": "What are the \"M\" floors in the stacks of Alderman Library?",
+                "options": [
+                    "Mezzanine floors",
+                    "Middle floors",
+                    "Floors built to shelve the expanding McGregor Collection",
+                    "\"Mechanical\" floors housing elements needed for building infrastructure"
+                ],
+                "answer":[0],
+                "more": "The bookstack was constructed with two floors on each of its five stories in order to efficiently house the maximum number of volumes. Thus there are 10 floors in both the Old and New Stacks (1, 1M, 2, 2M, etc.)."
+            },
+            {
+                "type": "single-select-item",
+                "question": "There are two busts in Memorial Hall of Alderman Library. Who do they depict?",
+                "options": [
+                    "E. A. Alderman and E. A. Poe",
+                    "Alderman and Thomas Jefferson",
+                    "Poe and Thomas Jefferson",
+                    "Jefferson and James Madison"
+                ],
+                "answer":[0],
+                "more": "Memorial Hall (the main lobby of Alderman Library) contains a bust of Edwin Anderson Alderman, the first president of the University of Virginia for whom the library is named, and Edgar Allan Poe, the poet and author who was briefly a student at the University in 1826. The bust of Poe, by \"Sculptor of the Confederacy\" George Julian Zolnay, was commissioned by the University and unveiled in 1899 on the fiftieth anniversary of Poe's death. It originally stood in the Rotunda."
+            },
+            {
+                "type": "four-quarter",
+                "question": "What American author was once appointed as \"Consultant on American Literature\" to Alderman Library?",
+                "options": [
+                    "Edna Ferber",
+                    "Ernest Hemingway",
+                    "William Faulkner",
+                    "Paul Bowles"
+                ],
+                "answer":[2],
+                "more": "Faulkner originally came to the University as its first Writer-in-Residence in 1957. He accepted reappointment to that post, and then appointment to the post of Consultant on American History. In 1961 he was elected Balch Lecturer in American Literature, a post he held until his death. The University of Virginia Library holds the world's foremost collection of material pertaining to Faulkner."
+            },
+            {
+                "type": "four-quarter",
+                "question": "When were the New Stacks built?",
+                "options": [
+                    "1947",
+                    "1957",
+                    "1967",
+                    "1977"
+                ],
+                "answer":[2],
+                "more": "America was in Vietnam, the Beatles, Monkees, and Turtles were on the radio, and Alderman Library was out of room for books in the Old Stacks."
+            },
+            {
+                "type": "single-select-item",
+                "question": "What was Alderman Library the first research library to do?",
+                "options": [
+                    "Designate a \"nap room\" for students to take breaks from studying",
+                    "Provide book delivery by drone",
+                    "Set up a petting zoo for students to relieve stress during exams",
+                    "Install a café on site"
+                ],
+                "answer":[3],
+                "more": "Alderman Café opened in September of 1998 and has been popular with the University community and visitors ever since (the other initiatives listed have not yet been realized)."
+            }
+        ]
+    }
+]
