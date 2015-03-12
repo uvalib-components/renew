@@ -19,29 +19,31 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         content="black-translucent" >
   <meta name="format-detection" content="telephone=no">
 
-  <link rel="icon" href="images/mobile_site_icon_rotunda_sketch.png" />
-  <link rel="shortcut icon" href="images/mobile_site_icon_rotunda_sketch.png" />
-  <link rel="apple-touch-icon" href="images/mobile_site_icon_rotunda_sketch.png"/>
-  <link rel="apple-touch-icon-precomposed" href="images/mobile_site_icon_rotunda_sketch.png"/>
+  <link rel="shortcut icon" href="favicon.ico">
+  <link rel="icon" sizes="196x196" href="icons/icon-196.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="icons/iPad@2x.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="icons/Icon-72@2x.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="icons/iPhone@2x.png">
 
-  <meta name="application-name" content="Quiz App">
+  <meta name="application-name" content="Alderman Renewal">
 
-  <script src="../platform/platform.js"></script>
+  <script src="components/webcomponentsjs/webcomponents.js"></script>
 
   <link rel="stylesheet" href="theme.css" shim-shadowdom>
 
-  <link rel="import" href="../core-icons/core-icons.html">
-  <link rel="import" href="../core-icons/av-icons.html">
-  <link rel="import" href="../core-icons/social-icons.html">
-  <link rel="import" href="../renew-elements/topeka-datasource.html">
-  <link rel="import" href="../renew-elements/topeka-app.html">
-  <link rel="import" href="../renew-elements/theme.html">
+  <link rel="import" href="components/core-icons/core-icons.html">
+  <link rel="import" href="components/core-icons/av-icons.html">
+  <link rel="import" href="components/core-icons/social-icons.html">
+
+  <link rel="import" href="components/renew-elements/topeka-datasource.html">
+  <link rel="import" href="components/renew-elements/topeka-app.html">
+  <link rel="import" href="components/renew-elements/theme.html">
 
 </head>
 <body>
 
   <template is="auto-binding">
-    <topeka-datasource url="../renew-elements/categories.json" user="{{user}}" categories="{{categories}}" connected="{{connected}}"></topeka-datasource>
+    <topeka-datasource url="components/renew-elements/categories.json" user="{{user}}" categories="{{categories}}" connected="{{connected}}"></topeka-datasource>
     <topeka-app fit user="{{user}}" categories="{{categories}}" connected="{{connected}}" touch-action="auto"></topeka-app>
   </template>
 

@@ -1,0 +1,1 @@
+vulcanize -o build.html index.html --strip --inline --csp
